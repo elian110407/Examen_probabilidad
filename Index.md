@@ -34,3 +34,12 @@ Aqui se encuentran todas las prácticas de laboratorio que se realizaron durante
 ### ⚙️ Unidad 3
 
 Aqui se encuentran todas las prácticas de laboratorio que se realizaron durante la Unidad 1.
+
+---
+
+### 📅 Dataset Regional
+
+En esta sección esta adjunto el dataset que se utilizó durante toda la unidad.
+
+🗾⛅ [Dataset Regional](https://docs.google.com/spreadsheets/d/1yuInS40CDuE4inBfYd2KIr6MFAkSjkjw/edit?usp=sharing&ouid=109398161544996535137&rtpof=true&sd=true)
+
