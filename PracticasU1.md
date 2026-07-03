@@ -48,7 +48,7 @@ Este APE trató sobre  los conceptos de la Teoría de la Distribución y la Prob
 Este APE trató sobre los modelos estocásticos discretos. Utilizando las distribuciones binomial y de Poisson mediante la librería scipy.stats en Python.
 
 
-* [🔗 Guía de Laboratorio APE 05 - Distribuciones Discretas Notables](https://drive.google.com/file/d/1nv3NSo0WXpklDP4DnbS5hBUhdLKuRpNN/view?usp=sharing)
+* [Guía de Laboratorio APE 05](https://drive.google.com/file/d/1nv3NSo0WXpklDP4DnbS5hBUhdLKuRpNN/view?usp=sharing)
 
 ---
 
