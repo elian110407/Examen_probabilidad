@@ -19,7 +19,7 @@
 
 Aqui se encuentran todas las prácticas de laboratorio que se realizaron durante la Unidad 1.
 
-🗄️👁️‍🗨️[Prácticas de Laboratorio de la Unidad 1 (APE)]() 
+🗄️👁️‍🗨️[Prácticas de Laboratorio de la Unidad 1 (APE)](PracticasU1.md) 
 
 ---
 
@@ -27,7 +27,7 @@ Aqui se encuentran todas las prácticas de laboratorio que se realizaron durante
 
 Aqui se encuentran todas las prácticas de laboratorio que se realizaron durante la Unidad 2.
 
-🔎[Prácticas de Laboratorio de la Unidad 2 (APE)]()
+🔎[Prácticas de Laboratorio de la Unidad 2 (APE)](PracticaU2.md)
 
 ---
 
