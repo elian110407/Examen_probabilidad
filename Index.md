@@ -29,6 +29,8 @@ Aqui se encuentran todas las prácticas de laboratorio que se realizaron durante
 
 🔎[Prácticas de Laboratorio de la Unidad 2 (APE)](PracticasU2.md)
 
+🗒️[Evaluación Unidad 2](EvaluacionU2.md)
+
 ---
 
 ### ⚙️ Unidad 3
